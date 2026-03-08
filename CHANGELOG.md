@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.4.11](https://github.com/quodlibetor/s3glob/compare/v0.4.10...v0.4.11) - 2026-03-08
+
+### 🐛 Bug Fixes
+
+- **(security)** Upgrade dependencies including aws-lc-rs by [@quodlibetor](https://github.com/quodlibetor) in [#89](https://github.com/quodlibetor/s3glob/pull/89)
+
 ## [0.4.10](https://github.com/quodlibetor/s3glob/compare/v0.4.9...v0.4.10) - 2026-02-21
 
 ### 🐛 Bug Fixes
