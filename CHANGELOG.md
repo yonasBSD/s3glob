@@ -1,5 +1,15 @@
 # Changelog
 
+## [0.4.12](https://github.com/quodlibetor/s3glob/compare/v0.4.11...v0.4.12) - 2026-03-14
+
+### 🚀 Features
+
+- **(tls)** Add experimental alternative platform-native TLS verification by [@quodlibetor](https://github.com/quodlibetor) in [#92](https://github.com/quodlibetor/s3glob/pull/92)
+
+### 🐛 Bug Fixes
+
+- Handle multiple log directives in S3GLOB_LOG env var by [@quodlibetor](https://github.com/quodlibetor) in [#91](https://github.com/quodlibetor/s3glob/pull/91)
+
 ## [0.4.11](https://github.com/quodlibetor/s3glob/compare/v0.4.10...v0.4.11) - 2026-03-08
 
 ### 🐛 Bug Fixes
