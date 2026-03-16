@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.4.13](https://github.com/quodlibetor/s3glob/compare/v0.4.12...v0.4.13) - 2026-03-16
+
+### 🚀 Features
+
+- Add --force-path-style flag for S3-compatible servers accessed by hostname by [@quodlibetor](https://github.com/quodlibetor) in [#93](https://github.com/quodlibetor/s3glob/pull/93)
+
 ## [0.4.12](https://github.com/quodlibetor/s3glob/compare/v0.4.11...v0.4.12) - 2026-03-14
 
 ### 🚀 Features
