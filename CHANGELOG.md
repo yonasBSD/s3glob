@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.4.14](https://github.com/quodlibetor/s3glob/compare/v0.4.13...v0.4.14) - 2026-03-21
+
+### 💼 Other
+
+- Update aws-lc-rs for recent exploits by [@quodlibetor](https://github.com/quodlibetor) in [#94](https://github.com/quodlibetor/s3glob/pull/94)
+
 ## [0.4.13](https://github.com/quodlibetor/s3glob/compare/v0.4.12...v0.4.13) - 2026-03-16
 
 ### 🚀 Features
